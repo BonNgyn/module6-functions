@@ -22,3 +22,4 @@ ImperialToMetric <- function(feet, inches) {
 # Create a variable `height.in.meters` by passing your height in imperial to the
 # `ImperialToMetric` function
 height.in.meters <- ImperialToMetric(5, 3)
+
